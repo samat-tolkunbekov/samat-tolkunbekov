@@ -34,7 +34,7 @@
 <div id="my-stats" align="center">
   <h2>My stats:</h2>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stolkunbekov&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stolkunbekov&theme=dark&show_icons=true)
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolkunbekov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
