@@ -1,10 +1,40 @@
-- 👋 Hi, I’m @stolkunbekov
-- 👀 I’m interested in football, swimming and music
-- 🌱 I’m currently learning React JS and Python
-- 💞️ I’m looking to collaborate on some interesting projects
-- 📫 You can reach via my linkedin profile 
-
-<!---
-stolkunbekov/stolkunbekov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div id="header-wrapper" align="center">
+  <div id="header">
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="25%"/>
+  </div>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/samat-tolkunbekov-a4b7aa155/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://twitter.com/samattolkunbek">
+      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+  <img src="https://komarev.com/ghpvc/?username=stolkunbekov&style=flat-square&color=blue" alt=""/>
+</div>
+<div id="tools-and-technologies" align="center">
+  <h2>Tools & Technologies:</h2>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="GO" alt="GO" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="Laravel" alt="Laravel" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React"  alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux"  alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg"  title="jQuery" alt="jQuery" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/><br>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker"  alt="Docker" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis"  alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div id="my-stats" align="center">
+  <h2>My stats:</h2>
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stolkunbekov&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+<!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolkunbekov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+</div>
