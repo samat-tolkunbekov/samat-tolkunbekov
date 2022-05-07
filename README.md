@@ -34,7 +34,9 @@
 <div id="my-stats" align="center">
   <h2>My stats:</h2>
   
-  ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=stolkunbekov&theme=dark&show_icons=true)
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/stolkunbekov?cardType=level&theme=gotham)](https://git.io/awesome-stats-card)
+  
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stolkunbekov&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
   
 <!--   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stolkunbekov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 </div>
