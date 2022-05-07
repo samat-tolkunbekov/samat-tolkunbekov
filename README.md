@@ -12,7 +12,6 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=stolkunbekov&style=flat-square&color=blue" alt=""/>
 </div>
-
 <div id="tools-and-technologies" align="center">
   <h2>Tools & Technologies:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -31,4 +30,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL"  alt="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
+<div id="my-stats" align="center">
+  <h2>My stats:</h2>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=stolkunbekov&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 </div>
