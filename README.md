@@ -1,6 +1,6 @@
 <div id="header-wrapper" align="center">
   <div id="header">
-    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100"/>
+    <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="100%"/>
   </div>
   <div id="badges">
     <a href="https://www.linkedin.com/in/samat-tolkunbekov-a4b7aa155/">
