@@ -20,7 +20,6 @@
     Gained extensive experience in marketing, project management, and customer relations.
     At the same time working closely with Partner Success Development Team, decided to try myself at development and programming.
     Changed my career path entirely and started a new journey as a Software Engineer.
-
     In less than a year qualified to be a leader/mentor and Kanban flow master. Developed and delivered 300+ various frontend and backend projects for all type of platforms and technologies. After 1.5 years was promoted and joined Product Development Team.
   </p>
 </div>
